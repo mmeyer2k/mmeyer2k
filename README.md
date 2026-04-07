@@ -2,4 +2,4 @@
   <img src="header.gif" alt="mmeyer2k" width="100%"/>
 </p>
 
-📄 **[Full skills & experience →](SKILLS.md)**
+📄 **[Skills & experience →](SKILLS.md)**
