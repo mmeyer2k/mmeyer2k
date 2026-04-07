@@ -10,7 +10,7 @@ Senior Backend Engineer with 13+ years of professional experience. I've built an
 |---|---|---|
 | PHP | 13+ years | Primary language throughout career |
 | Laravel | 10+ years | Expert-level; preferred framework |
-| Symfony | 4+ years | Used at Symplr (2013–2015) |
+| Symfony | 4+ years | 2011–2014 |
 | Python | 5+ years | Scripting, automation, data tooling |
 | JavaScript | 13+ years | Frontend/backend, Node.js |
 | Node.js | 8+ years | APIs, tooling, background services |
